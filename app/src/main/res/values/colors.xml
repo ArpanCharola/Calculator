@@ -1,0 +1,7 @@
+<resources>
+    <color name="cyanPrimary">#00BCD4</color>
+    <color name="cyanDark">#0097A7</color>
+    <color name="cyanAccent">#80DEEA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
